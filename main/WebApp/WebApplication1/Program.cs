@@ -1,9 +1,15 @@
+using Microsoft.AspNetCore.Authentication.Certificate;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddAuthentication(
+        CertificateAuthenticationDefaults.AuthenticationScheme)
+    .AddCertificate();
 
 var app = builder.Build();
+app.UseAuthentication();
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
