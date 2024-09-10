@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1Vn2NKN1yn8=",
+  "dgSpecHash": "KLM5OBfr9uY=",
   "success": true,
-  "projectFilePath": "C:\\code\\Kacetys_Repo\\main\\WebApp\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\code\\Kacetys_Repo\\WebApp\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kryst\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\kryst\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

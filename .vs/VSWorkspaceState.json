@@ -1,11 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github",
     "\\main",
     "\\main\\WebApp",
     "\\main\\WebApp\\WebApplication1"
   ],
-  "SelectedNode": "\\main\\WebApp\\WebApp.sln",
+  "SelectedNode": "\\.github",
   "PreviewInSolutionExplorer": false
 }
